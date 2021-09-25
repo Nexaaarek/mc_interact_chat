@@ -27,7 +27,7 @@ After starting the program, follow the instructions displayed in the terminal
 
 ## Information
 
-Program was tested on Python 3.9.
+Program tested on Python 3.9.
 
 All bugs can be reported in the "Issues" tab or on Discord (hhs#9753).
 
