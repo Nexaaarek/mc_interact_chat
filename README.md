@@ -15,7 +15,8 @@ pip install mcrcon
 
 ## Libraries
 
-Program uses two libraries - [pytchat](https://pypi.org/project/pytchat/) and [mcrcon](https://pypi.org/project/mcrcon/)
+- [pytchat](https://pypi.org/project/pytchat/)
+- [mcrcon](https://pypi.org/project/mcrcon/)
 
 ## Usage
 
@@ -29,7 +30,7 @@ After starting the program, follow the instructions displayed in the terminal
 
 Program tested on Python 3.9.
 
-All bugs can be reported in the "Issues" tab or on Discord (hhs#9753).
+All bugs can be reported in the "Issues" tab.
 
 ## License
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
